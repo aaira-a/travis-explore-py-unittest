@@ -1,0 +1,6 @@
+*.pyc
+.coverage
+htmlcov/
+venv/
+travis-explore-py-unittest.sublime-project
+travis-explore-py-unittest.sublime-workspace
